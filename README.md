@@ -1,4 +1,4 @@
-# eShop Microservices Starter Kit
+# Microservices Starter Kit
 
 A production-ready microservices starter kit built with .NET 9, Kafka, PostgreSQL, Kong API Gateway, and OpenTelemetry for full observability.
 
